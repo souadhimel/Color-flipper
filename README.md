@@ -1,4 +1,7 @@
 # Color-flipper
+
+NOTES:
+
 Math.random will give you a floating point number between 0 (inclusive) and 1 (exclusive).
 
 Multiplying that by 256 will give you a number in the range 0 (inclusive) through 256 (exclusive), but still floating point.
